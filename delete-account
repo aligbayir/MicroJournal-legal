@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Mood Echo - Hesap Silme Talebi</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; max-width: 600px; margin: 40px auto; padding: 20px; }
+        .card { border: 1px solid #ddd; padding: 20px; border-radius: 8px; }
+        h1 { color: #333; }
+        .btn { background: #ff4444; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>Hesap Silme Talebi</h1>
+        <p>Hesabınızı ve verilerinizi silmek için iki seçeneğiniz vardır:</p>
+        
+        <h3>1. Uygulama İçinden Silme (Önerilen)</h3>
+        <p>Uygulamaya giriş yapın, <b>Ayarlar > Hesabımı Sil</b> adımlarını takip edin. Bu işlem anında gerçekleşir.</p>
+        
+        <h3>2. Web Üzerinden Talep Oluşturma</h3>
+        <p>Uygulamaya erişiminiz yoksa, kayıtlı e-posta adresinizden şu adrese bir talep e-postası gönderin:</p>
+        <p><b>a.bayrgorkem@gmail.com</b></p>
+        <p>Talebiniz 7 iş günü içerisinde işleme alınacaktır.</p>
+    </div>
+</body>
+</html>
